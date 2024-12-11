@@ -1,0 +1,3 @@
+On activation, the program will display a window being the main clothing store manager, the application allows the user to input a number of stock of each category shown, and whenever each category is updated via the update buttons, the program will display the total cost of all of that category to make calculations of products easier for the company.
+
+https://github.com/EnderSlayer121/SDEV140Final
